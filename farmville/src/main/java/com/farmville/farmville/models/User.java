@@ -1,4 +1,4 @@
-package com.farmville.farmville.domain;
+package com.farmville.farmville.models;
 
 public class User {
     private String name;
